@@ -125,6 +125,7 @@
         "quotes": [2, "double"],
         "radix": 0,
         "semi": 2,
+        "settimeout-mixin": 2,
         "sort-vars": 0,
         "space-after-keywords": [0, "always"],
         "space-in-brackets": [0, "never"],
